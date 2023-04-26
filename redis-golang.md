@@ -5,7 +5,7 @@
 ## Tutorial
 ```shell
 sudo docker pull redis
-docker run --name redis-images -d -p 6379:6379 redis
+docker run --name containerredis -d -p 6379:6379 redis
 ```
 
 ```shell
