@@ -19,7 +19,7 @@ ex : ssh-keygen -t rsa -f ~/.ssh/findryanssh -C findryan -b 2048
 8. Save
 
 ## AWS
-1. 
+1. On progress
 
 ## Remote Instance
 ```shell
