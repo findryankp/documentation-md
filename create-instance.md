@@ -13,9 +13,10 @@ ex : ssh-keygen -t rsa -f ~/.ssh/findryanssh -C findryan -b 2048
 2. Choose the configuration what you like
 3. Allow HTTP and HTTPs
 4. Click **Create**
-5. Choose VM and click Edit
+5. Choose VM and click **Edit**
 6. Add SSH public Key
 7. Insert your public key (.pub)
+8. Save
 
 ## Remote Instance
 ```shell
