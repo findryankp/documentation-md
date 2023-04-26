@@ -20,7 +20,8 @@ ex : ssh-keygen -t rsa -f ~/.ssh/findryanssh -C findryan -b 2048
 
 ## AWS
 1. 
-
+2. -
+   
 ## Remote Instance
 ```shell
 ssh -i ~/.ssh/SSH_FILE_NAME USERNAME@ip
