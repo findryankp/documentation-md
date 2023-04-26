@@ -18,6 +18,9 @@ ex : ssh-keygen -t rsa -f ~/.ssh/findryanssh -C findryan -b 2048
 7. Insert your public key (.pub)
 8. Save
 
+## AWS
+1. 
+
 ## Remote Instance
 ```shell
 ssh -i ~/.ssh/SSH_FILE_NAME USERNAME@ip
