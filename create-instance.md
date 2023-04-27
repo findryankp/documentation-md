@@ -10,13 +10,15 @@ ex : ssh-keygen -t rsa -f ~/.ssh/findryanssh -C findryan -b 2048
 
 ## GCP
 1. **Create Instance** on top navbar
-2. Choose the configuration what you like
-3. Allow HTTP and HTTPs
-4. Click **Create**
-5. Choose VM and click **Edit**
-6. Add SSH public Key
-7. Insert your public key (.pub)
-8. Save
+2. Set name of your instance
+3. Set **Boot disk**
+4. Choose the configuration what you like
+5. Allow HTTP and HTTPs
+6. Click **Create**
+7. Choose VM and click **Edit**
+8. Add SSH public Key
+9. Insert your public key (.pub)
+10. Save
 
 ## AWS
 1. On progress
