@@ -28,7 +28,7 @@ ex : ssh-keygen -t rsa -f ~/.ssh/findryanssh -C findryan -b 2048
 5. checklist HTTP dan HTTPS
 6. launch instance
 7. chmod 0400 `hpzbook-aws-key.pem`
-8. ssh -i ~/.ssh/altassh findryankpradana@34.30.5.137
+8. ssh -i ~/.ssh/altassh findryankpradana@IP
 
 ## Remote Instance
 ```shell
