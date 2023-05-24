@@ -21,7 +21,14 @@ ex : ssh-keygen -t rsa -f ~/.ssh/findryanssh -C findryan -b 2048
 10. Save
 
 ## AWS
-1. On progress
+1. EC2 dashboard
+2. Instance
+3. Launch Instance
+4. Create New Key pair
+5. checklist HTTP dan HTTPS
+6. launch instance
+7. chmod 0400 `hpzbook-aws-key.pem`
+8. ssh -i ~/.ssh/altassh findryankpradana@34.30.5.137
 
 ## Remote Instance
 ```shell
